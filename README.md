@@ -9,15 +9,18 @@ Below are the screen shots for better understanding of projects.
 <br>
 1. File structure of project.
 <br>
-![file-structure](https://user-images.githubusercontent.com/72379437/200987715-da62637f-f6ac-42b9-af6e-04f717c746ea.png)
+![file-structure](https://user-images.githubusercontent.com/72379437/200989030-7ce002b5-008f-4ba6-803b-4a475f1b519d.png)
+
 <br>
 2. Home page of web app. Here user can explore products.
 <br>
-![project-home-page](https://user-images.githubusercontent.com/72379437/200987795-b089f99c-3c3c-4d9a-8ebc-05721a4e5afb.png)
+![project-home-page](https://user-images.githubusercontent.com/72379437/200989090-d027cc2b-2d2e-42de-9b0c-1f86db46dc29.png)
+
 <br>
 3. Sign In/ Sign up page. Here user can sign in or sign up into their account.
 <br>
-![sign-up](https://user-images.githubusercontent.com/72379437/200988114-f4f74243-336c-4ccb-9a48-5fafeb6fef7c.png)
+![sign-up](https://user-images.githubusercontent.com/72379437/200989157-0f43872d-04ad-4c18-9d10-12110c859f38.png)
+
 <br>
 Sign up page.
 <br>
