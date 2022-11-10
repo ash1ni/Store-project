@@ -1,0 +1,25 @@
+footer{
+    display: flex;
+    position:fixed;
+    bottom: 0;
+    clear: both;
+    width: 100vw;
+    background-color: rgba(189, 215, 228, 0.74);
+    color: black;
+    padding: 0.5vw;
+    justify-content: space-between;
+}
+footer a{
+    text-decoration: none;
+    align-self: right;
+    color: black;
+    font-size: 1.2rem;
+    margin-left: 5px;
+    border-radius: 25px;
+    background-color: white;
+    padding: 7px;
+}
+footer a:hover{
+    background-color: black;
+    color: white;
+}
